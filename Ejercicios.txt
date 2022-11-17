@@ -1,0 +1,14 @@
+1. Una empresa ha decidido dar una bonificación del 5% al empleado cuyo tiempo de servicio sea superior a 3 años.
+Escribir un programa que reciba por teclado el monto del salario y los años de servicio e imprima la cantidad neta de la bonificación.
+
+2. Escriba un programa que reciba un número n ingresado por teclado por el usuario e imprima la tabla de multiplicar de n desde 1 hasta 100.
+
+3. Escribir un código que permita calcular un descuento basado en las siguientes reglas o consideraciones:
+Más de 10 años de experiencia, 5% de descuento.
+Más de 20 años de experiencia, 17% de descuento.
+Si es más de 25 años de experiencia y varón, 20% de descuento.
+Si es más de 25 años de experiencia y mujer, 23% de descuento.
+
+4. Dada una lista L, escribir un programa que cree una nueva lista sin los elementos duplicados. Utilice operador in o not in.
+Si la lista es [500,100,200,300,200,100,600,400,800,400,500,900] el programa debe crear una nueva lista que 
+contenga [500, 100, 200, 300, 600, 400, 800, 900]
